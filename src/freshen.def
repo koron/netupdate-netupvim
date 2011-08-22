@@ -1,0 +1,11 @@
+; Written By:  Muraoka Taro <koron@tka.att.ne.jp>
+; Last Change: 08-Oct-2001.
+
+LIBRARY FRESHEN
+DESCRIPTION "Newtwork file get module for netupdate"
+EXPORTS
+	DllMain
+	Freshen
+	FreshenLastErrorString
+	FreshenSetMessageProc
+	FreshenSetProgressProc

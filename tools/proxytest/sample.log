@@ -1,0 +1,13 @@
+<!-- vim:set ts=2 sw=2 sts=2 tw=0 ft=html: -->
+<html>
+	<head>
+		<title>Proxy test page</title>
+	</head>
+	<body>
+		これと同じ内容のページがダウンロードされ、
+		download.logという名前で保存されれば正しい結果です。<br />
+		<ul>
+			<li><a href="http://www.kaoriya.net/test/proxytest.tar.bz2">Proxy test program</a></li>
+			<li><a href="http://www.kaoriya.net/">香り屋</a></li>
+	</body>
+</html>

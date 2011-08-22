@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- vim:set ts=4 sts=4 sw=4 tw=0: -->
+<!-- 
+filelist.xml - ネットワークモジュールデフォルト定義ファイル
+	Last Change: 30-Oct-2005.
+	Maintainer:	 MURAOKA Taro <koron@tka.att.ne.jp>
+-->
+<updateinfo>
+	<name>Vim-6.4-w32j</name>
+	<uri>http://www.kaoriya.net/update/vim64w32j/filelist.xml</uri>
+</updateinfo>

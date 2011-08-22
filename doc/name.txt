@@ -1,0 +1,30 @@
+ vim:set ts=8 sts=2 sw=2 tw=0:
+ Last Change: 08-Oct-2001.
+
+netupdate
+
+freshen.dll
+  新鮮にする。
+  ネットワークから更新ファイルを引っ張ってくる。
+fleshout.exe
+  現実感を持たせる。
+
+netfresh
+  fresh 新鮮な,初期,新しい,さわやかな,はつらつとした,新しく
+netflesh
+  flesh 激励する,肥やす,肉,身,贅肉,食用肉,肉体,人類,生物,肌,果肉
+netfrush
+  frush
+netflush
+  flush
+    1.紅潮,赤面,赤らみ,輝き,はつらつさ,得意,興奮,意気揚々,ほとばしり,出水,
+    2.どっと流れる,ほとばしる,接触する,浪費する,
+    3.同一平面上の,平らの,みなぎって
+  flash
+
+NUS
+Urban
+UFvNS
+  Update File via Network System
+  Distribute Updated Files
+

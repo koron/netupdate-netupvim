@@ -1,0 +1,11 @@
+ vim:set ts=8 sts=4 sw=4 tw=0 ft=memo:
+ Last Change: 23-Jan-2002.
+
+TODO
+    ログ形式を見直す
+    HTTPのリザルトコードに対応
+
+DONE
+    プロキシ認証に対応
+    プロキシ対応を実装
+    ポート番号指定を実装
